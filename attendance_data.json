@@ -1,0 +1,34 @@
+{
+    "Delhi": {
+        "2025-10-19": [
+            {
+                "Employee_ID": "EMP_DEL_001",
+                "Status": "Present",
+                "In_Time": "09:00",
+                "Out_Time": "18:00",
+                "Remarks": ""
+            },
+            {
+                "Employee_ID": "EMP_DEL_002",
+                "Status": "Present",
+                "In_Time": "09:00",
+                "Out_Time": "18:00",
+                "Remarks": ""
+            },
+            {
+                "Employee_ID": "EMP_DEL_003",
+                "Status": "Present",
+                "In_Time": "09:00",
+                "Out_Time": "18:00",
+                "Remarks": ""
+            },
+            {
+                "Employee_ID": "EMP_DEL_004",
+                "Status": "Present",
+                "In_Time": "09:00",
+                "Out_Time": "18:00",
+                "Remarks": ""
+            }
+        ]
+    }
+}
